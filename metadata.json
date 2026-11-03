@@ -1,0 +1,6 @@
+{
+  "name": "ApexCell POS & Inventory Ledger",
+  "description": "Professional Desktop & Web Inventory, Point of Sale (POS), and Supplier Ledger Management System tailored for Mobile Phones & Accessories retail stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
